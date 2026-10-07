@@ -1,0 +1,6 @@
+{
+  "name": "RimWorld Colony Simulator",
+  "description": "A deep grid-based colony simulation game featuring indirect AI control, work priorities, construction blueprints, needs, and story events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
